@@ -103,7 +103,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(0, 0, 0, 0.7);
 }
 
 .d-bloc button:hover {
@@ -703,8 +703,12 @@ p {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    max-height: 100px;
+    color: #FFFFFF;
+    font-size: 30px;
 }
 
 h2 {
@@ -739,7 +743,8 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF;
+    color: #000000;
+    font-size: 18px;
 }
 
 .portfolio-thumb {
@@ -783,7 +788,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #ff7a3c;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .btn-atomic-tangerine:hover {
